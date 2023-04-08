@@ -151,7 +151,7 @@ begin
   Result := not VCVersionInstalled(VC_2019_REDIST_X86_MIN);
 end;
 
-
+// event tv crs 
 // event fired when the uninstall step is changed: https://stackoverflow.com/revisions/12645836/1
 procedure CurUninstallStepChanged(CurUninstallStep: TUninstallStep);
 begin
