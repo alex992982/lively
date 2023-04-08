@@ -151,6 +151,15 @@ namespace Lively.Automation
                     }
                     catch { /* TODO */ }
                 }
+
+
+
+(file)
+    technical 
+
+,.
+[h1],<MINE BODY.>
+
                 else if (File.Exists(opts.File))
                 {
                     var screen = opts.Monitor != null ?
